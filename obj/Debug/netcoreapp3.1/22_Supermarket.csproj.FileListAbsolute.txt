@@ -1,0 +1,13 @@
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.csprojAssemblyReference.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.AssemblyInfoInputs.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.AssemblyInfo.cs
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\bin\Debug\netcoreapp3.1\22_Supermarket.exe
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\bin\Debug\netcoreapp3.1\22_Supermarket.deps.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\bin\Debug\netcoreapp3.1\22_Supermarket.runtimeconfig.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\bin\Debug\netcoreapp3.1\22_Supermarket.runtimeconfig.dev.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\bin\Debug\netcoreapp3.1\22_Supermarket.dll
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\bin\Debug\netcoreapp3.1\22_Supermarket.pdb
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.dll
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.pdb
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\22_Supermarket\obj\Debug\netcoreapp3.1\22_Supermarket.genruntimeconfig.cache
