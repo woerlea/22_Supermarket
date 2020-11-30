@@ -27,6 +27,7 @@ namespace _22_Supermarket
         // Starte Abfrage
         public void StartQuery()
         {
+            Console.Clear(); // damit die eingelesenen Daten aus dem Bildschirm verschwinden
             Console.WriteLine("Drucken Sie <Enter>, um die Abfrage zu starten");
             string answer = Console.ReadLine();
 
@@ -58,8 +59,12 @@ namespace _22_Supermarket
                     ChooseStorageType();
                     break;
                 default:
-                    break;
+                    break;                    
+
             }
+            Console.ReadKey(); // damit die Console-Ausgabe bleibt
+            Console.Clear(); // damit alle Console-Ausgaben verschwinden und die Abfrage neu auf dem "leeren" Console-Bild starten kann
+
         }
 
         // Wähle Regaltyp aus
