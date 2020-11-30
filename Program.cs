@@ -23,7 +23,7 @@ namespace _22_Supermarket
                 //Textzeilen
                 string[] lines = System.IO.File.ReadAllLines(URL);
 
-                for (var i = 1; i < lines.Length - 1; i++)
+                for (var i = 1; i < lines.Length; i++)
                 {
                     var splittedValues = lines[i].Split(';');
 
